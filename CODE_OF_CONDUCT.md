@@ -1,4 +1,4 @@
-# Pledge
+# Pledge [^1]
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in GitHub Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Standards
@@ -75,3 +75,5 @@ Actions we may take in response to a flag or abuse report include, but are not l
 If, for any reason, you want to contact DGMJR staff, you can use the [support contact form](support.dgmjr.io).
 
 ***Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.***
+
+[^1]: Adapted from the [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct)
