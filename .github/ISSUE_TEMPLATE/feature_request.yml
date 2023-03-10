@@ -17,9 +17,9 @@ body:
       options:
         - label: "I could not find a solution in the existing issues, docs, or discussions."
           required: true
-        - label: "I agree to follow this project's [Code of Conduct](https://justinwritescode.com/CODE_OF_CONDUCT/)."
+        - label: "I agree to follow this project's [Code of Conduct](https://coc.dgmjr.io/)."
           required: true
-        - label: "I have read and am following this repository's [Contribution Guidelines](https://justinwritescode.com/CONTRIBUTING/)."
+        - label: "I have read and am following this repository's [Contribution Guidelines](https://contributing.dgmjr.io/)."
           required: true
   - type: input
     id: contact
