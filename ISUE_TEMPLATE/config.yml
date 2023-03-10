@@ -1,0 +1,18 @@
+blank_issues_enabled: false
+contact_links:
+  - name: JustinWritesCode Discussions
+    url: https://discussions.dgmjr.io
+    about: Ask questions and share ideas related to JustinWritesCode projects here
+  - name: Open issue
+    url: https://issues.dgmjr.io
+    about: Check out open issues here (but I'm really bad at keeping these up to date)
+  - name: Projectd
+    url: https://projectd.dgmjr.io
+    about: Check out my major projects here (but again, I'm very bad at keeping this up to date)
+    about: Ask questions and share ideas related to JustinWritesCode projects here
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
